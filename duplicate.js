@@ -30,4 +30,4 @@ function add(a,b){
 }
 add("adam" + "eve");
 
-console.log(function)
+console.log(add)
